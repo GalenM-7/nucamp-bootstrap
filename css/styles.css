@@ -32,6 +32,31 @@ header h2 {
     min-height:200px;
 }
 
+.row-content2{
+    padding:50px 0;
+    min-height:100px;
+}
+
+
 .navbar{
     background-color: #901CAD;
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding:10px;
+}
+
+.carousel-caption {
+    background-color: rgba(0,0,0,0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
+}
+
+.h3n {
+    background-color: solid #5637DD;
+    color: white;
 }
